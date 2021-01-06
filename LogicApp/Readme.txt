@@ -1,0 +1,1 @@
+This snippet allows you to control 12 of the numerous Azure Logic App Connectors on the basis of which Azure Subscription or account their resource is being connected from.
